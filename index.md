@@ -3,44 +3,50 @@
 ## Administrative Information
 - Dates: 26 September 2023 - 13 October 2023
 - Point of contact: [mona.allaert@uantwerpen.be](mailto:mona.allaert@uantwerpen.be)
-- Course Material:  All course material can be found [here](https://github.com/dtaantwerp/dtaantwerp.github.io/tree/DTA_Bootcamp_2021_students/notebooks)
+- Course Material:  All course material can be found [here](https://github.com/MonaDT/dtaantwerp24-25.github.io)
 
 
 **************************************************************************
 ## Schedule
 ###  Week 1
 
-- #### Tuesday (26/09/2022) Room: S.K.102
+- #### Tuesday (24/09/2022) Room: S.K.102
 	- Morning (10:30 - 12:30)  
-		&emsp;**[MA Digital Text Analysis: Course Overview](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/notebooks/01_W1_Tue_Ma_DTA_Course_Overview.ipynb)**  
+		&emsp;**[MA Digital Text Analysis: Course Overview](https://github.com/MonaDT/dtaantwerp24-25.github.io/blob/DTA_Bootcamp_2024_students/notebooks/01_W1_Tue_Ma_DTA_Course_Overview.ipynb)**  
 
 		&emsp;Tutor: Walter Daelemans
+		&emsp;Assistant: Mona Allaert
 	- Afternoon (14:00 - 16:00)  
-		&emsp;**[Python and Variables](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/notebooks/02_W1_Tue_Python_and_Variables.ipynb)**  
+		&emsp;**[Python and Variables](https://github.com/MonaDT/dtaantwerp24-25.github.io/blob/DTA_Bootcamp_2024_students/notebooks/02_W1_Tue_Python_and_Variables.ipynb)**  
 
 		&emsp;Tutor: Walter Daelemans
-- #### Wednesday (27/09/2023) Room: S.SJ.214
+		&emsp;Assistant: Victor De Marez
+- #### Wednesday (25/09/2023) Room: S.SJ.214
 	- Morning (10:30 - 12:30)  
-		&emsp;**[Data Types, Lists, Dictionaries](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/notebooks/03_W1_Wed_Data_Types_Lists_Dictionaries.ipynb)**  
+		&emsp;**[Data Types, Lists, Dictionaries](https://github.com/MonaDT/dtaantwerp24-25.github.io/blob/DTA_Bootcamp_2024_students/notebooks/03_W1_Wed_Data_Types_Lists_Dictionaries.ipynb)**  
 
 		&emsp;Tutor: Luna De Bruyne
+		&emsp;Assistant: Mona Allaert
 	- Afternoon (14:00 - 16:00)  
-		&emsp;**[Control Structures: If-Else](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/notebooks/04_W1_Wed_Control_structures_if_else.ipynb)** 
+		&emsp;**[Control Structures: If-Else](https://github.com/MonaDT/dtaantwerp24-25.github.io/blob/DTA_Bootcamp_2024_students/notebooks/04_W1_Wed_Control_structures_if_else.ipynb)** 
 
 		&emsp;Tutor: Nooshin Asadi
-- #### Thursday (28/09/2022)
+		&emsp;Assistant: Mona Allaert
+- #### Thursday (26/09/2022)
 	- NO TEACHING (opening of the academic year)
-- #### Friday (29/09/2022) Room: S.SJ.214
+- #### Friday (27/09/2022) Room: S.SJ.214
 	- Morning (10:30 - 12:30)  
-		&emsp;**[Control Structures: For-Loops (and While-Loops)](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/notebooks/05_W1_Fri_Control_Structures_Loops_For_While.ipynb)**  
+		&emsp;**[Control Structures: For-Loops (and While-Loops)](https://github.com/MonaDT/dtaantwerp24-25.github.io/blob/DTA_Bootcamp_2024_students/notebooks/05_W1_Fri_Control_Structures_Loops_For_While.ipynb)**  
 
 		&emsp;Tutor: Walter Daelemans
+		&emsp;Assistant: Jens Van Nooten
+		
 	- Afternoon (14:00 - 16:00)  
 		&emsp;**Practice Session: Recap Week 1**
 		- **[Python and Variables](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/exercises/Questions_2023/01_EX_Python_and_variables.ipynb)**
 		- **[Datatypes](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/exercises/Questions_2023/02_EX_Datatypes.ipynb)**
 		
-		&emsp;Tutor: Ine Gevers and Mona Allaert
+		&emsp;Tutor: Sara Budts and Mona Allaert
 		
 
 ###  Week 2
