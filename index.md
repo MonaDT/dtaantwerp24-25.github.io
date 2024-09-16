@@ -10,7 +10,7 @@
 ## Schedule
 ###  Week 1
 
-- #### Tuesday (24/09/2022) Room: S.K.102
+- #### Tuesday (24/09/2024) Room: S.K.102
 	- Morning (10:30 - 12:30)  
 		&emsp;**[MA Digital Text Analysis: Course Overview](https://github.com/MonaDT/dtaantwerp24-25.github.io/blob/DTA_Bootcamp_2024_students/notebooks/01_W1_Tue_Ma_DTA_Course_Overview.ipynb)**  
 
@@ -21,7 +21,7 @@
 
 		&emsp;Tutor: Walter Daelemans
 		&emsp;Assistant: Victor De Marez
-- #### Wednesday (25/09/2023) Room: S.SJ.214
+- #### Wednesday (25/09/2024) Room: S.SJ.214
 	- Morning (10:30 - 12:30)  
 		&emsp;**[Data Types, Lists, Dictionaries](https://github.com/MonaDT/dtaantwerp24-25.github.io/blob/DTA_Bootcamp_2024_students/notebooks/03_W1_Wed_Data_Types_Lists_Dictionaries.ipynb)**  
 
@@ -32,9 +32,9 @@
 
 		&emsp;Tutor: Nooshin Asadi
 		&emsp;Assistant: Mona Allaert
-- #### Thursday (26/09/2022)
+- #### Thursday (26/09/2024)
 	- NO TEACHING (opening of the academic year)
-- #### Friday (27/09/2022) Room: S.SJ.214
+- #### Friday (27/09/2024) Room: S.SJ.214
 	- Morning (10:30 - 12:30)  
 		&emsp;**[Control Structures: For-Loops (and While-Loops)](https://github.com/MonaDT/dtaantwerp24-25.github.io/blob/DTA_Bootcamp_2024_students/notebooks/05_W1_Fri_Control_Structures_Loops_For_While.ipynb)**  
 
@@ -51,7 +51,7 @@
 
 ###  Week 2
 
-- #### Monday (30/09/2022) Room: S.SJ.117
+- #### Monday (30/09/2024) Room: S.SJ.117
 	- Morning (10:30 - 12:30)  
 		&emsp;**[Input/Output and Files](https://github.com/MonaDT/dtaantwerp24-25.github.io/blob/DTA_Bootcamp_2024_students/notebooks/06_W2_Mon_Input_Output_Files.ipynb)**  
 
@@ -63,7 +63,7 @@
 		&emsp;Tutor: Walter Daelemans
 		&emsp;Assistant: Mona Allaert
 		
-- #### Tuesday (01/10/2022) Room: S.K.102
+- #### Tuesday (01/10/2024) Room: S.K.102
 	- Morning (10:30 - 12:30)  
 		&emsp;**Practice Session**  
 		- **[Control structures: If-Else](https://github.com/MonaDT/dtaantwerp24-25.github.io/blob/DTA_Bootcamp_2024_students/exercises/Questions_2024/03_EX_if_else.ipynb)**
@@ -80,7 +80,7 @@
 		
 		&emsp;Tutors: Loren Verreyen and Mona Allaert
 		
-- #### Wednesday (02/10/2022) Room: S.SJ.214
+- #### Wednesday (02/10/2024) Room: S.SJ.214
 	- Morning (10:30 - 12:30)  
 		&emsp;**[Functions](https://github.com/MonaDT/dtaantwerp24-25.github.io/blob/DTA_Bootcamp_2024_students/notebooks/08_W2_Wed_Functions.ipynb)**  
 
@@ -93,7 +93,7 @@
 		&emsp;Tutor: Ine Gevers
 		&emsp;Assistant: Caroline Vandyck
 
-- #### Thursday (03/10/2022) Room: S.A.206  
+- #### Thursday (03/10/2024) Room: S.A.206  
 	- Morning (10:30 - 12:30)  
 		&emsp;**Practice Session**  
 		- **[Functions](https://github.com/MonaDT/dtaantwerp24-25.github.io/blob/DTA_Bootcamp_2024_students/exercises/Questions_2024/07_EX_functions.ipynb)**
@@ -106,7 +106,7 @@
 		
 		&emsp;Tutor: Loren Verreyen and Mona Allaert
 		
-- #### Friday (04/10/2022) Room: S.SJ.214  
+- #### Friday (04/10/2024) Room: S.SJ.214  
 	- Morning (10:30 - 12:30)  
 		&emsp;**[Regular Expressions](https://github.com/MonaDT/dtaantwerp24-25.github.io/blob/DTA_Bootcamp_2024_students/notebooks/10_W2_Fri_Regular_Expressions.ipynb)** 
 
@@ -120,7 +120,7 @@
 
 
 ###  Week 3
-- #### Monday (7/10/2022) Room: S.SJ.117  
+- #### Monday (7/10/2024) Room: S.SJ.117  
 	- Morning (10:30 - 12:30)  
 		&emsp;**[Numpy](https://github.com/MonaDT/dtaantwerp24-25.github.io/blob/DTA_Bootcamp_2024_students/notebooks/12_W3_Mon_Numpy.ipynb)**
 
@@ -134,7 +134,7 @@
 		&emsp;Assistant: Leonardo Grotti
 	
 		
-- #### Tuesday (8/10/2022) Room: S.K.102  
+- #### Tuesday (8/10/2024) Room: S.K.102  
 	- Morning (10:30 - 12:30)  
 		&emsp;**Practice Session**    
 		- **[Regular Expressions](https://github.com/MonaDT/dtaantwerp24-25.github.io/blob/DTA_Bootcamp_2024_students/exercises/Questions_2024/09_EX_regex.ipynb)**
@@ -150,7 +150,7 @@
 		
 		&emsp;Tutor: Ine Gevers & Caroline Vandyck
 		
-- #### Wednesday (9/10/2022) Room: S.SJ.214  
+- #### Wednesday (9/10/2024) Room: S.SJ.214  
 	- Morning (10:30 - 12:30)  
 	&emsp;**[Pandas](https://github.com/MonaDT/dtaantwerp24-25.github.io/blob/DTA_Bootcamp_2024_students/notebooks/14_W3_Wed_Pandas.ipynb)**  
 		
@@ -162,7 +162,7 @@
 		&emsp;Tutor: Ine Gevers
 		&emsp;Assistant: Victor De Marez
 
-- #### Thursday (10/10/2022) Room: S.A.206  
+- #### Thursday (10/10/2024) Room: S.A.206  
 	- Morning (10:30 - 12:30)  
 	     &emsp;**Practice Session**  
 	   - **[Pandas](https://github.com/MonaDT/dtaantwerp24-25.github.io/blob/DTA_Bootcamp_2024_students/exercises/Questions_2024/12_EX_Pandas.ipynb)**
@@ -175,7 +175,7 @@
 		&emsp;Tutor: Nooshin Asadi
 		&emsp;Assistant: Ben Nagy
 
-- #### Friday (13/10/2022) Room: S.SJ.214
+- #### Friday (13/10/2024) Room: S.SJ.214
 	- Morning (10:30 - 12:30)  
 		&emsp;**Information session thesis and internship**  
 
