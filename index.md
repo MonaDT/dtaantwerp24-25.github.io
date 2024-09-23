@@ -10,7 +10,7 @@
 ## Schedule
 ###  Week 1
 
-- #### Tuesday (24/09/2024) Room: C.202 (morning) and C.203 (afternoon)
+- #### Tuesday (24/09/2024) Room: C.104 (morning) and D.013 (afternoon)
 	- Morning (10:30 - 12:30)  
 		&emsp;**[MA Digital Text Analysis: Course Overview](https://github.com/MonaDT/dtaantwerp24-25.github.io/blob/DTA_Bootcamp_2024_students/notebooks/01_W1_Tue_Ma_DTA_Course_Overview.ipynb)**  
 
@@ -51,7 +51,7 @@
 
 ###  Week 2
 
-- #### Monday (30/09/2024) Room: R.005
+- #### Monday (30/09/2024) Room: R.Anexxe 112 (Morning) and R.112 (Afternoon)
 	- Morning (10:30 - 12:30)  
 		&emsp;**[Input/Output and Files](https://github.com/MonaDT/dtaantwerp24-25.github.io/blob/DTA_Bootcamp_2024_students/notebooks/06_W2_Mon_Input_Output_Files.ipynb)**  
 
@@ -63,7 +63,7 @@
 		&emsp;Tutor: Walter Daelemans
 		&emsp;Assistant: Mona Allaert
 		
-- #### Tuesday (01/10/2024) Room: C 202 (morning), C.203 (afternoon)
+- #### Tuesday (01/10/2024) Room: C.104 (morning), D.013 (afternoon)
 	- Morning (10:30 - 12:30)  
 		&emsp;**Practice Session**  
 		- **[Control structures: If-Else](https://github.com/MonaDT/dtaantwerp24-25.github.io/blob/DTA_Bootcamp_2024_students/exercises/Questions_2024/03_EX_if_else.ipynb)**
@@ -120,7 +120,7 @@
 
 
 ###  Week 3
-- #### Monday (7/10/2024) Room: R.005
+- #### Monday (7/10/2024) Room: R.Anexxe 112 (Morning) and R.112 (Afternoon)
 	- Morning (10:30 - 12:30)  
 		&emsp;**[Numpy](https://github.com/MonaDT/dtaantwerp24-25.github.io/blob/DTA_Bootcamp_2024_students/notebooks/12_W3_Mon_Numpy.ipynb)**
 
@@ -134,7 +134,7 @@
 		&emsp;Assistant: Leonardo Grotti
 	
 		
-- #### Tuesday (8/10/2024) Room: C.202 (morning) & C.203 (afternoon)
+- #### Tuesday (8/10/2024) Room: C.104 (morning) and D.013 (afternoon)
 	- Morning (10:30 - 12:30)  
 		&emsp;**Practice Session**    
 		- **[Regular Expressions](https://github.com/MonaDT/dtaantwerp24-25.github.io/blob/DTA_Bootcamp_2024_students/exercises/Questions_2024/09_EX_regex.ipynb)**
